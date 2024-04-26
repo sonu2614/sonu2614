@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react and vue**
 
-- 📫 How to reach me **chaudharysonu2614@gmail.com**
+- 📫 How to reach me **sonukumar110322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
